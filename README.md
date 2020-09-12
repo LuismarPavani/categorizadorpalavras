@@ -1,0 +1,2 @@
+# categorizadorpalavras
+ Categorizador de Palavras
